@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Alfina-M
-- ✨ I'm currently in my First year BE CSE 
+- 👋 Hi, I’m Alfina Saliga 
+- ✨ I'm studying First year in BE-CSE
 - 👀 I’m interested in learning new things
-- 🌱 I’m learning C,C++,Python and HTML 
+- 🌱 I’m currently learning C,C++,Python and HTML and trying to learn more about codings 
 
 <!---
 Alfina-M/Alfina-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
